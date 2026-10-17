@@ -3,7 +3,7 @@
 <section class="hero">
   <div class="hero-copy">
     <span class="eyebrow"><span class="eyebrow-dot"></span> YOUR JOURNEY, OUR GUIDE</span>
-    <h1>Temukan cerita baru di setiap <em>perjalanan.</em></h1>
+    <h1>Temukan cerita baru di setiap <em>perjalanan seru.</em></h1>
     <p>Rihlah Travel Guide membantu kamu merencanakan perjalanan melalui layanan paket wisata, tour planning, dan tour organizing di berbagai destinasi Indonesia.</p>
     <div class="hero-actions"><a class="button button-primary" href="packages.php">Kenali Layanan Kami <span aria-hidden="true">↗</span></a><a class="text-link" href="destinations.php">Jelajahi destinasi <span aria-hidden="true">→</span></a></div>
     <div class="hero-note"><span class="note-icon" aria-hidden="true">✦</span><span><strong>Mulai dari ide perjalananmu.</strong><br>Detail paket, jadwal, dan harga dikonfirmasi langsung bersama tim Rihlah.</span></div>

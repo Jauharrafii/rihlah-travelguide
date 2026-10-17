@@ -25,7 +25,7 @@ file_put_contents($counterFile, $pageViews);
 <header class="site-header">
     <div class="nav-wrap">
         <a class="brand" href="index.php" aria-label="Rihlah Travel Guide - Beranda">
-            <span class="brand-name">RIHLAH-ANJAY <small>TRAVEL GUIDE</small></span>
+            <span class="brand-name">RIHLAH<small>TRAVEL GUIDE</small></span>
         </a>
         <nav class="nav-links" aria-label="Navigasi utama">
             <a class="<?php echo $currentPage === 'home' ? 'active' : ''; ?>" href="index.php">Beranda</a>
